@@ -4,7 +4,7 @@
 Frogger-inspired game in Alice
 
 
-### Version 1 (Jan. 1, 2017)
+### Version 1 (Jan 1, 2017)
 
 How to play:
 Use the arrow keys to move the fox around obstacles to the other side and catch the bird. You have 3 lives and 75 seconds to finish.
@@ -16,7 +16,7 @@ Future improvements:
 I want to try making more levels (of difficulty) in the future.
 
 
-### Version 2 (Jan. 5 2017) 
+### Version 2 (Jan 5, 2017) 
 [Updated]
 
 How to play:
