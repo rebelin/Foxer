@@ -1,7 +1,7 @@
 # Foxer
 
 ## Creator: Rebecca Lin
-## Inspiration: Frogger
+Frogger-inspired game in Alice
 
 
 ### Version 1 (Jan. 1, 2017)
